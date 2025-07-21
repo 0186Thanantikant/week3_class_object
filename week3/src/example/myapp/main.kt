@@ -19,7 +19,7 @@ fun makeFish() {
 
     println("Shark: ${shark.color}")
     shark.eat()
-    
+
     println("Plecostomus: ${pleco.color}")
     pleco.eat()
 }
